@@ -1,0 +1,13 @@
+C:\Users\Abdullah\Desktop\BankCalculator\bin\Debug\netcoreapp3.1\BankCalculator.exe
+C:\Users\Abdullah\Desktop\BankCalculator\bin\Debug\netcoreapp3.1\BankCalculator.deps.json
+C:\Users\Abdullah\Desktop\BankCalculator\bin\Debug\netcoreapp3.1\BankCalculator.runtimeconfig.json
+C:\Users\Abdullah\Desktop\BankCalculator\bin\Debug\netcoreapp3.1\BankCalculator.runtimeconfig.dev.json
+C:\Users\Abdullah\Desktop\BankCalculator\bin\Debug\netcoreapp3.1\BankCalculator.dll
+C:\Users\Abdullah\Desktop\BankCalculator\bin\Debug\netcoreapp3.1\BankCalculator.pdb
+C:\Users\Abdullah\Desktop\BankCalculator\obj\Debug\netcoreapp3.1\BankCalculator.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\BankCalculator\obj\Debug\netcoreapp3.1\BankCalculator.AssemblyInfoInputs.cache
+C:\Users\Abdullah\Desktop\BankCalculator\obj\Debug\netcoreapp3.1\BankCalculator.AssemblyInfo.cs
+C:\Users\Abdullah\Desktop\BankCalculator\obj\Debug\netcoreapp3.1\BankCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\BankCalculator\obj\Debug\netcoreapp3.1\BankCalculator.dll
+C:\Users\Abdullah\Desktop\BankCalculator\obj\Debug\netcoreapp3.1\BankCalculator.pdb
+C:\Users\Abdullah\Desktop\BankCalculator\obj\Debug\netcoreapp3.1\BankCalculator.genruntimeconfig.cache
